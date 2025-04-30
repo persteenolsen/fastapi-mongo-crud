@@ -30,7 +30,7 @@ Python Version at Vercel:
 
 "pip3 install -r requirements.txt"
 
-# Set up the MongoDB at Atals
+# Set up the MongoDB at Atlas
 
 - Go to your Mongo Atlas and create the following as a "Database First Approach":
 
