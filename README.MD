@@ -50,7 +50,7 @@ To access the documentation, we must run uvicorn:
 
 "python main.py"
 
-If everything works fine, the message “Project connected to the MongoDB database!” will show the FastAPI and Swagger documentation is now available at: 
+If everything works fine the FastAPI and Swagger documentation is now available at: 
 
 `http://127.0.0.1:8000/docs`
 
