@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from routes.todos_route import todo_api_router
 
 app = FastAPI(
-    title="Python FastApi and MongoDB at Atlas",
+    title="01-08-2025 - Python FastApi and MongoDB at Atlas",
     description="FastAPI serving CRUD towards MongoDB Atlas",
     version="0.0.1",
     contact={
