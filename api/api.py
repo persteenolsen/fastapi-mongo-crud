@@ -5,7 +5,7 @@ from routes.todos_route import todo_api_router
 app = FastAPI(
 
     title="Python + FastApi + MongoDB",
-    description="24-09-2025 - FastAPI serving CRUD handling Todo Task towards MongoDB Atlas",
+    description="07-12-2025 - FastAPI serving CRUD handling Todo Task towards MongoDB Atlas",
     version="0.0.1",
     contact={
         "name": "Per Olsen",

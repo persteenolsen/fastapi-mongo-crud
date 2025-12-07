@@ -4,7 +4,7 @@ An API that serves as a Todo Web App
 
 Last updated:
 
-- 24-09-2025
+- 07-12-2025
 
 Python Version local:
 
